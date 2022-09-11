@@ -1,7 +1,7 @@
-<div id="header" align="center">
+<p align="center">
   <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="250"/>
-</div>
-<div id="badges" align="center">
+</p>
+<p align="center">
   <a href="https://www.linkedin.com/in/annomao/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -11,22 +11,21 @@
   <a href="">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-</div>
-<div id="views" align="center">
+</p>
+<p align="center">
 <img src="https://komarev.com/ghpvc/?username=annomao&style=for-the-badge&color=blue" alt=""/>
-</div>
+</p>
 
-<h2> :woman_technologist: About Me :</h2>
-<h4> :earth_africa: I am a Developer from Nairobi, Kenya</h4>
-<ul>
-  <li> :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.</li>
-  <li> :seedling: I'm currently learning Angular Js</li>
-  <li> :zap: In my free time, I like to read tech articles.</li>
-  <li> 📫 How to reach me: <a href="https://mail.google.com/mail/?view=cm&source=mailto&to=omaoannkerubo@gmail.com">Email</a></li>
-</ul>
+## :woman_technologist: About Me :
+#### :earth_africa: I am a Developer from Nairobi, Kenya
 
-<h2> :hammer_and_wrench: Languages and Tools :</h2>
-<div>
+  - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+  - :seedling: I'm currently learning Angular Js
+  - :zap: In my free time, I like to read tech articles.
+  - 📫 How to reach me: [Email](https://mail.google.com/mail/?view=cm&source=mailto&to=omaoannkerubo@gmail.com)
+
+## :hammer_and_wrench: Languages and Tools :
+<p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg" title="Ruby on Rails" alt="Rails" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original-wordmark.svg" title="RUBY" alt="RUBY" width="40" height="40"/>&nbsp;
@@ -36,6 +35,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
-</div>
+</p>
+
+## :fire: My Stats :
+![Ann's GitHub stats](https://github-readme-stats.vercel.app/api?username=annomao&count_private=true&show_icons=true&theme=react&bg_color=000000)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=annomao&theme=black-ice&background=000000)](https://git.io/streak-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annomao&layout=compact&theme=react&bg_color=000000)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
