@@ -1,4 +1,21 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="250"/>
+</div>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/annomao/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://medium.com/@omaokerubo21">
+    <img src="https://img.shields.io/badge/Medium-white?style=for-the-badge&logo=medium&logoColor=black" alt="Medium Badge"/>
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+<div id="views" align="center">
+<img src="https://komarev.com/ghpvc/?username=annomao&style=for-the-badge&color=blue" alt=""/>
+</div>
+
 
 <!--
 **annomao/annomao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
