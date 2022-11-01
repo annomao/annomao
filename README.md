@@ -20,7 +20,7 @@
 #### :earth_africa: I am a Developer from Nairobi, Kenya
 
   - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-  - :seedling: I'm currently learning Spring Boot
+  - :seedling: I'm currently learning Cloud development
   - :zap: In my free time, I like to read tech articles.
   - 📫 How to reach me: [Email](https://mail.google.com/mail/?view=cm&source=mailto&to=omaoannkerubo@gmail.com)
 
